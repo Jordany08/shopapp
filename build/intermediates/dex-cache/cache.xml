@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/stephaniediaz/.android/build-cache/eba01c94de3a68530e30585f2cff921f411f4ee9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/stephaniediaz/Downloads/food-sqlite-demo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5bf4ca219d2ceeab71cf26c04fc3786fb5a185ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stephaniediaz/.android/build-cache/7ebee825a2f574a62ec7f5ee1f99afe90f9f8eca/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/stephaniediaz/Downloads/food-sqlite-demo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_4f74e3776f69659baabf812dbbae70451285c4ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stephaniediaz/.android/build-cache/1e419200cb2de1eeb9c03f83b0da97f1dcd6958a/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/stephaniediaz/Downloads/food-sqlite-demo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_4014b2b1558866da1b24e4ac83d8b85c76cbc2f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stephaniediaz/.android/build-cache/1e419200cb2de1eeb9c03f83b0da97f1dcd6958a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/stephaniediaz/Downloads/food-sqlite-demo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c5abea5e5bae9b10bade9ae4573ab9079d04190d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stephaniediaz/.android/build-cache/0b48fa4531c4e9f7348f6e0aa6c03d8bb8f6cde3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/stephaniediaz/Downloads/food-sqlite-demo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_babcf7b077bf20ea1d87ee49cee771b04322dc93/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stephaniediaz/.android/build-cache/eba01c94de3a68530e30585f2cff921f411f4ee9/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/stephaniediaz/Downloads/food-sqlite-demo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_e3fd5e688932c3c449aef4ae7072a6cb25fd09bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stephaniediaz/.android/build-cache/19b350becacfa8150ba35e7a4c5fd88688819711/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/stephaniediaz/Downloads/food-sqlite-demo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_e270a38071f9cb3882003088dca2d17cefd121d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stephaniediaz/.android/build-cache/de54df31ea565aeafc74b4b4e6da099d20bbbd50/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/stephaniediaz/Downloads/food-sqlite-demo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1a03a883a4f94f0b322bcfb9bb3ad77d0dc8d558/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stephaniediaz/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/stephaniediaz/Downloads/food-sqlite-demo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_8611fcdd96ba385125e74cc74a5931b12c575074/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stephaniediaz/.android/build-cache/8e44186aa6de513b8cad2811d82310305e92df97/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/stephaniediaz/Downloads/food-sqlite-demo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a290059f30cd52f8e5bc26662cee5f4bd5e4582f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stephaniediaz/.android/build-cache/7ebee825a2f574a62ec7f5ee1f99afe90f9f8eca/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/stephaniediaz/Downloads/food-sqlite-demo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_db1aece81bbc2d00111a9ebc6bccf4b189639cc5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stephaniediaz/.android/build-cache/7c3ec967e8fd86cd38ecafbad8f3f7a1766d902c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/stephaniediaz/Downloads/food-sqlite-demo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_59090bed27210de96b0ec7d0db2f0db8ae01acf5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stephaniediaz/Downloads/food-sqlite-demo-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/stephaniediaz/Downloads/food-sqlite-demo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_66068817b20c9184d677febd55a656894aef984f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stephaniediaz/.android/build-cache/459d2ec96d63c16be5a54f3f011068a8e637b5a5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/stephaniediaz/Downloads/food-sqlite-demo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7b02bd08c70cc3786f0fe3b662f531a347f659f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stephaniediaz/Downloads/food-sqlite-demo-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efda56d42433ca65a4c76e1d15cfb8354de32b59">
+        <dex dex="/Users/stephaniediaz/Downloads/food-sqlite-demo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7be32db023e1146e644e8feec7fe177dd18ed4da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stephaniediaz/.android/build-cache/459d2ec96d63c16be5a54f3f011068a8e637b5a5/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/stephaniediaz/Downloads/food-sqlite-demo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_abe525f68f27e211fce5bcec82916809494565e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stephaniediaz/.android/build-cache/19b350becacfa8150ba35e7a4c5fd88688819711/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/stephaniediaz/Downloads/food-sqlite-demo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_830f01885278f59b127817ecae13acb331a512b0/classes.dex" />
+    </item>
+
+</items>
